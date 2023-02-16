@@ -56,7 +56,7 @@ body {
 }
 
 /* for mobile screens */
-@media only screen and (max-width: 442px) {
+@media only screen and (max-width: 452px) {
     #hour {
         width: 2.1%;
         top: 37.9%;
